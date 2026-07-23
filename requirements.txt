@@ -1,0 +1,18 @@
+# Core
+numpy>=2.1.0
+pandas>=2.2.0
+scikit-learn>=1.5.0
+matplotlib>=3.9.0
+seaborn>=0.13.0
+tqdm>=4.66.0
+
+# Tree-based models
+xgboost>=2.1.0
+lightgbm>=4.5.0
+
+# Deep learning (install torch separately, see README for CUDA-specific builds)
+torch>=2.5.0
+pytorch-tabnet>=4.1.0
+
+# Data loading
+openml>=0.15.0
