@@ -1,6 +1,6 @@
 # Tabular Benchmark: Tree-Based Models vs. Deep Learning
 
-Companion code to my EPFL Bachelor semester project, *"Machine Learning Models on Tabular Data"* (2024–2025, supervised by Can Yang, EPFL / HKUST). The written report develops the mathematical theory behind seven widely-used tabular ML models and uses this codebase to benchmark them empirically. The results replicate, at a smaller scale, the central finding of [Grinsztajn, Oyallon & Varoquaux (2022)](https://arxiv.org/abs/2207.08815): **tree-based models remain state-of-the-art on medium-sized tabular data**, and outperform even architectures purpose-built for it.
+Companion code to my EPFL Bachelor semester project, *"Machine Learning Models on Tabular Data"* (2025–2026, supervised by Can Yang, EPFL / HKUST). The written report develops the mathematical theory behind seven widely-used tabular ML models and uses this codebase to benchmark them empirically. The results replicate, at a smaller scale, the central finding of [Grinsztajn, Oyallon & Varoquaux (2022)](https://arxiv.org/abs/2207.08815): **tree-based models remain state-of-the-art on medium-sized tabular data**, and outperform even architectures purpose-built for it.
 
 ## What this project does
 
