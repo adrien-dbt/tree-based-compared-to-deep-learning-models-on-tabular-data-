@@ -132,7 +132,7 @@ python benchmark.py --dataset credit-g --output credit_g_results.json
 
 ## Author
 
-Adrien de Botton — EPFL Bachelor in Mathematics, incoming Yale MS in Statistics and Data Science.
+Adrien de Botton — EPFL Bachelor in Mathematics
 
 ## License
 
